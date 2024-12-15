@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistence version="2.2" xmlns="http://xmlns.jcp.org/xml/ns/persistence" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/persistence           http://xmlns.jcp.org/xml/ns/persistence/persistence_2_2.xsd">
+  <persistence-unit name="com.leonardo_V01Javasinframeworks_jar_1.0-SNAPSHOTPU" transaction-type="RESOURCE_LOCAL">
+    <provider>org.eclipse.persistence.jpa.PersistenceProvider</provider>
+    <class>com.leonardo.verificatualbaran.controlador.Albaran</class>
+    <class>com.leonardo.verificatualbaran.controlador.Usuarios</class>
+    <class>com.leonardo.verificatualbaran.controlador.AlbaranhasProductos</class>
+    <class>com.leonardo.verificatualbaran.controlador.Productos</class>
+    <class>newpackage.AlbaranhasProductos</class>
+    <class>newpackage.Productos</class>
+    <class>newpackage.Usuarios</class>
+    <class>newpackage.Albaran</class>
+    <properties>
+      <property name="javax.persistence.jdbc.url" value="jdbc:mysql://localhost:3306/VerificaTuAlbaran?zeroDateTimeBehavior=CONVERT_TO_NULL"/>
+      <property name="javax.persistence.jdbc.user" value="root"/>
+      <property name="javax.persistence.jdbc.driver" value="com.mysql.cj.jdbc.Driver"/>
+      <property name="javax.persistence.jdbc.password" value="Leits3lm*"/>
+    </properties>
+  </persistence-unit>
+</persistence>

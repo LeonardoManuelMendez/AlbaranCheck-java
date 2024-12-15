@@ -1,0 +1,99 @@
+Producto{codigo=5473, nombre=LACA NORMAL 400 ML. BONTE 400ML, eanProducto=, eanBulto=}
+Producto{codigo=19830, nombre=DESODORAN.SPRAY PIES BONTE 150ML, eanProducto=, eanBulto=}
+Producto{codigo=33757, nombre=JABON LIQ.BEBE LAVAN BBSMI 750ML, eanProducto=, eanBulto=}
+Producto{codigo=63738, nombre=AGUA OXIGENADA BONTE 250ML , eanProducto=, eanBulto=}
+Producto{codigo=102119, nombre=CEPILLO BLANQ.SOFT BONTÉ PACK2 , eanProducto=, eanBulto=}
+Producto{codigo=154471, nombre=CEPILLO DENT.PROTESI BONTE 1UD , eanProducto=, eanBulto=}
+Producto{codigo=166167, nombre=DENTIFR. BLANQUEADOR BONTÉ 100ML, eanProducto=, eanBulto=}
+Producto{codigo=166168, nombre=DENTIFR.PROTEC.TOTAL BONTÉ 100ML, eanProducto=, eanBulto=}
+Producto{codigo=166182, nombre=DENTIFR.PROT.CARIES BONTÉ 100ML, eanProducto=, eanBulto=}
+Producto{codigo=176396, nombre=ADHESIVO PROT.DENTAL BONTÉ 40ML, eanProducto=, eanBulto=}
+Producto{codigo=176400, nombre=CEPILLO INTERD. FINO BONTÉ 6UD , eanProducto=, eanBulto=}
+Producto{codigo=176402, nombre=ARCOS DENTALES BONTÉ 30UD, eanProducto=, eanBulto=}
+Producto{codigo=176403, nombre=TABLE.LIMP.PROT.DENT BONTÉ 30UD, eanProducto=, eanBulto=}
+Producto{codigo=179948, nombre=COLOR PERMANEN NEG 1 BONTÉ 1UD , eanProducto=, eanBulto=}
+Producto{codigo=217420, nombre=CHAMPÚ MIEL BONTÉ 250ML, eanProducto=, eanBulto=}
+Producto{codigo=221899, nombre=DEO SPR SATIN TOUCH 200ML BONTE, eanProducto=, eanBulto=}
+Producto{codigo=221915, nombre=DEO SPR DARK TEM MEN 150ML BONTÉ, eanProducto=, eanBulto=}
+Producto{codigo=221924, nombre=DEO R-ON BLACK&WHIT 50ML BONTÉ , eanProducto=, eanBulto=}
+Producto{codigo=221929, nombre=DEO R-ON B&W MEN 50ML BONTÉ, eanProducto=, eanBulto=}
+Producto{codigo=225821, nombre=CREMA DEPILATORIA 200ML BONTÉ, eanProducto=, eanBulto=}
+Producto{codigo=230043, nombre=MAQUINILLA 3 HOJAS 4UDS BONTÉ, eanProducto=, eanBulto=}
+Producto{codigo=244731, nombre=GEL ORIGINAL DOVE DOVE 500ML , eanProducto=, eanBulto=}
+Producto{codigo=245237, nombre=CH MEN ULTRA T.CARE H&S 300ML, eanProducto=, eanBulto=}
+Producto{codigo=250991, nombre=PACK REPAR&FORTALECE TRSMM 1UD , eanProducto=, eanBulto=}
+Producto{codigo=1526, nombre=TE 25 UDS DIA 43GR , eanProducto=, eanBulto=}
+Producto{codigo=5297, nombre=SOPA TERNERA ESTRELL G.B. STAND, eanProducto=, eanBulto=}
+Producto{codigo=7406, nombre=CR.DENT FLUOR+CALCIO COLGA 75ML, eanProducto=, eanBulto=}
+Producto{codigo=12668, nombre=ACEITE ORUJO OLIVA DIA 1L, eanProducto=, eanBulto=}
+Producto{codigo=13003, nombre=TURRON FRUTA SUPREMA DIA 200GR , eanProducto=, eanBulto=}
+Producto{codigo=16600, nombre=PACHARAN ETXEZARRA1 L, eanProducto=, eanBulto=}
+Producto{codigo=16811, nombre=TURR CHOCO NEGR CRUJ DIA 260GR , eanProducto=, eanBulto=}
+Producto{codigo=28695, nombre=RON AÑEJO VELER 70 CL, eanProducto=, eanBulto=}
+Producto{codigo=33386, nombre=PIMIENTA NEGRA MOLID DIA 50GR, eanProducto=, eanBulto=}
+Producto{codigo=41798, nombre=BERBERECHO 65-UP DANI 63GRS, eanProducto=, eanBulto=}
+Producto{codigo=42887, nombre=PEREJIL DIA 10GRS, eanProducto=, eanBulto=}
+Producto{codigo=45982, nombre=ALIMENTO CANARIOS DIA 500GR, eanProducto=, eanBulto=}
+Producto{codigo=47496, nombre=GARBANZO COCIDO ASTUR 400GR, eanProducto=, eanBulto=}
+Producto{codigo=56667, nombre=PIMIENTA BLANCA MOLI DIA 50GR, eanProducto=, eanBulto=}
+Producto{codigo=60069, nombre=ARROZ VASITO BASMATI BRILL 250GR, eanProducto=, eanBulto=}
+Producto{codigo=60725, nombre=BITTER KAS LATA33 CL , eanProducto=, eanBulto=}
+Producto{codigo=61982, nombre=PATE HIGADO CERDO MINA 240GR , eanProducto=, eanBulto=}
+Producto{codigo=63978, nombre=PIPAS TIJUANA GREFU 165GR, eanProducto=, eanBulto=}
+Producto{codigo=63999, nombre=ALGODON DESMAQUI DUO BONTE 120UD, eanProducto=, eanBulto=}
+Producto{codigo=64276, nombre=TOMATE FRITO HELIO 570GR , eanProducto=, eanBulto=}
+Producto{codigo=69241, nombre=MONEDAS DE CHOCOLATE CREST 100GR, eanProducto=, eanBulto=}
+Producto{codigo=77269, nombre=FILM TRANSPARENTE DIA 100MT, eanProducto=, eanBulto=}
+Producto{codigo=82409, nombre=DUERME BIEN POMPA 20BOL, eanProducto=, eanBulto=}
+Producto{codigo=85943, nombre=SOFRITO TOMATE CEBOL GB 350GR, eanProducto=, eanBulto=}
+Producto{codigo=87363, nombre=CR.DENTAL BLANQUEANT SENSO 75 ML, eanProducto=, eanBulto=}
+Producto{codigo=87367, nombre=RED BULL MAXI LATA REDBU 35,5C , eanProducto=, eanBulto=}
+Producto{codigo=88840, nombre=MAHONESA CALVE 225ML , eanProducto=, eanBulto=}
+Producto{codigo=119528, nombre=MAGDALENAS CONCHA ARENA 300GR, eanProducto=, eanBulto=}
+Producto{codigo=124657, nombre=VINO TINTO RIOJA CVC CAMPO 75 CL, eanProducto=, eanBulto=}
+Producto{codigo=124921, nombre=DETERG PREND DELICAD DIA 2 LT, eanProducto=, eanBulto=}
+Producto{codigo=129845, nombre=PEPINILLO AGRIDULCE DIA 360GR, eanProducto=, eanBulto=}
+Producto{codigo=142058, nombre=ACEITUNA NEGRA S/HUE 150G DIA, eanProducto=, eanBulto=}
+Producto{codigo=142599, nombre=ARROZ SABROZ BRILL 1 KG, eanProducto=, eanBulto=}
+Producto{codigo=144926, nombre=FIDEUA MICRO CARRE 250GR , eanProducto=, eanBulto=}
+Producto{codigo=150917, nombre=CALDO COCID 100%NATU GBLAN 1L, eanProducto=, eanBulto=}
+Producto{codigo=151841, nombre=LEJIA DESINFECTANTE CONEJ 2L , eanProducto=, eanBulto=}
+Producto{codigo=153892, nombre=JABON PASTILLAS 115G HENO 3UD, eanProducto=, eanBulto=}
+Producto{codigo=159239, nombre=ALI GATO POUCHE FANT FELIX 400G, eanProducto=, eanBulto=}
+Producto{codigo=159360, nombre=PICOS RUSTICOS FRANJ 140GR , eanProducto=, eanBulto=}
+Producto{codigo=164595, nombre=CALDO PARA PAELLA GBLAN 1L , eanProducto=, eanBulto=}
+Producto{codigo=166978, nombre=REGALIZ BLAN RELL.RO VIDAL 300GR, eanProducto=, eanBulto=}
+Producto{codigo=176268, nombre=NOODLES CURRY GBLAN 61GRS, eanProducto=, eanBulto=}
+Producto{codigo=178251, nombre=V TTO AZPILICUETA CZA 75 CL, eanProducto=, eanBulto=}
+Producto{codigo=181560, nombre=TOALL HIGIENE ADULTO BONTÉ 60UD, eanProducto=, eanBulto=}
+Producto{codigo=183247, nombre=MINI TOSTAS C/ PASAS DELIC 125GR, eanProducto=, eanBulto=}
+Producto{codigo=183448, nombre=AMB NEUT ZEN/FRESCOR BMX D IA, eanProducto=, eanBulto=}
+Producto{codigo=183853, nombre=MOSTAZA A LA ANTIGUA DELIC 205GR, eanProducto=, eanBulto=}
+Producto{codigo=186682, nombre=SOPA COCIDO FIDEOS GB 72GRS, eanProducto=, eanBulto=}
+Producto{codigo=188224, nombre=PIM.PIQUILLO TIRAS C CORON 0.22K, eanProducto=, eanBulto=}
+Producto{codigo=190200, nombre=TE VERDE JENGIBR/NRJ POMPA 20UD, eanProducto=, eanBulto=}
+Producto{codigo=194830, nombre=GARBAN PEDROSILLANO DIA 1000G, eanProducto=, eanBulto=}
+Producto{codigo=197610, nombre=YAKISOBA POLLO GB 93GR , eanProducto=, eanBulto=}
+Producto{codigo=202757, nombre=CÁPSULA DG ESPRESSO DIA 16UD , eanProducto=, eanBulto=}
+Producto{codigo=204542, nombre=BOLETUS DESHIDRATADO , eanProducto=, eanBulto=}
+Producto{codigo=205707, nombre=AMB MECH FLOR ROSA DIA , eanProducto=, eanBulto=}
+Producto{codigo=207087, nombre=AMB.MIK. FLOR DE AZA HAR , eanProducto=, eanBulto=}
+Producto{codigo=224182, nombre=BIFRUTAS MEDITE ZERO PASCU 6X200, eanProducto=, eanBulto=}
+Producto{codigo=225149, nombre=BIZCOCHO S/GLUTEN OETKE 410GR, eanProducto=, eanBulto=}
+Producto{codigo=225400, nombre=TWIX MINIATURAS TWIX 130GR , eanProducto=, eanBulto=}
+Producto{codigo=227121, nombre=ACEITE OLIVA VIRGEN ALMAZ 3 LT , eanProducto=, eanBulto=}
+Producto{codigo=228913, nombre=TAMPN C/APLIC SUPER BONTE 40UDS, eanProducto=, eanBulto=}
+Producto{codigo=230582, nombre=TORCIDAS RELLENAS 140GR FINI , eanProducto=, eanBulto=}
+Producto{codigo=230798, nombre=MAIZ UN TOQUE BONDU 3X70 , eanProducto=, eanBulto=}
+Producto{codigo=231242, nombre=PAN TOST.MULTICEREAL ORTIZ 288GR, eanProducto=, eanBulto=}
+Producto{codigo=232466, nombre=SALVAUÑAS FIB.AZUL DIA 3UD , eanProducto=, eanBulto=}
+Producto{codigo=238443, nombre=DORITOS DIPPAS 200GR , eanProducto=, eanBulto=}
+Producto{codigo=238911, nombre=AVECREM PESCADO GB 80GR, eanProducto=, eanBulto=}
+Producto{codigo=240909, nombre=UVAS SUERTE GOMINOLA MIGUE 25GRS, eanProducto=, eanBulto=}
+Producto{codigo=249060, nombre=CARBON VEGETAL 3 KG LRIVE, eanProducto=, eanBulto=}
+Producto{codigo=251843, nombre=CAJA ROJA MILK SUBLI NESTL 114GR, eanProducto=, eanBulto=}
+Producto{codigo=211921, nombre=F.BARRA PAN.PANAMAR125 G , eanProducto=, eanBulto=}
+Producto{codigo=56586, nombre=Mostaza DIA 250G, eanProducto=8480017565860, eanBulto=}
+Producto{codigo=5832, nombre=Sardinillas salsa tomate DIA 88G, eanProducto=8480017058324, eanBulto=}
+Producto{codigo=326, nombre=TOMATE TRITURADO DIA 390G , eanProducto=8480017003263, eanBulto=}
+Producto{codigo=53720, nombre=MAYONESA DIA 420G , eanProducto=8480017537201, eanBulto=}
